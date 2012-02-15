@@ -1,0 +1,14 @@
+<package>
+  <description brief="qbo_system_info">
+      Execute a shell command and return the output using a service.
+      There are a config file to config commands
+  </description>
+  <author>Sergio Merino/sergio.merino@thecorpora.com</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
+
+
