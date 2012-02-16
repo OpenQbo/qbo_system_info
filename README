@@ -19,7 +19,6 @@ rosrun qbo_system_info plugin_system.py
 or
 ./plugin_system.py
 
-
 === Arvhive Contents ===
 
 ./manifest.xml	Ros information file
