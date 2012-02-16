@@ -1,0 +1,10 @@
+Package: qbo-system-info
+Source: qbo-system-info
+Version: 1.0-openqbo0
+Priority: standard
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Maintainer: Sergio Merino <s.merino@openqbo.org>
+Homepage: http://openqbo.org/wiki/doku.php?id=qbo_apps:ros_pack:qbo_system_info
+Description: This package is a ros service to get information from the operating system
+ This service can execute console commands to get important system information using ros services.
