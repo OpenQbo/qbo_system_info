@@ -4,7 +4,7 @@
       There are a config file to config commands
   </description>
   <author>Sergio Merino/s.merino@openqbo.org</author>
-  <license>GPL v2.0 & LGPL v2.1</license>
+  <license>GPL v2.0, LGPL v2.1</license>
   <depend package="std_msgs"/>
   <depend package="rospy"/>
 
