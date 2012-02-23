@@ -1,5 +1,5 @@
-Package: qbo-system-info
-Source: qbo-system-info
+Package: qboros-electric-system-info
+Source: qboros-electric-system-info
 Version: 1.0-openqbo0
 Priority: standard
 Architecture: amd64
